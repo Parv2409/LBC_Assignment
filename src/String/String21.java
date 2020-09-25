@@ -8,7 +8,7 @@ public class String21
     Scanner sc = new Scanner(System.in);
     char ch;
     String st = "";
-    System.out.println("Enter The String: ");
+    System.out.println("Enter String: ");
     String str = sc.next();
     int l = str.length();
     for(int i = l-1;i>=0;i--)
